@@ -1,0 +1,15 @@
+{
+    "name": "hexlet/hello-world",
+    "autoload": {
+        "psr-4": {
+            "Hexlet\\HelloWorld\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nail Khabibullin",
+            "email": "cznailmail@gmail.com"
+        }
+    ],
+    "require": {}
+}
